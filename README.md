@@ -235,20 +235,7 @@ graph TD
 - **🛡️ 16KB Page Size Android Compliance:** Hands-on experience rebuilding, aligning, and packaging native ELF libraries to support Android's 16KB page size requirement.
 - **📶 Offline-First & Resilient Persistence:** Deep experience with Redux Persist, Secure Keychain/Encrypted Shared Preferences, and shimmer state loaders for degraded network environments.
 - **🔐 Enterprise Security & Auth:** Role-based access control, AWS Cognito / Amplify auth state switching, payment gateway integration, and biometric/token protection.
-
----
-
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin-guttedar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nitin's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-guttedar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-guttedar&theme=tokyonight&hide_border=true&background=0D1117" alt="Nitin's GitHub Streak" />
-</div>
-
+  
 ---
 
 ### 🎓 Education & 🌐 Languages
