@@ -1,127 +1,323 @@
 <div align="center">
- 
-  <!-- Animated Typing Header -->
-<a href="https://github.com/nitin-guttedar">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Shashikant+Panchal+%F0%9F%91%8B;Software+Engineer+%7C+Mobile+Architect;Building+Scalable+iOS+%26+Android+Production+Apps;React+Native+%E2%80%A2+TypeScript+%E2%80%A2+AWS+%E2%80%A2+Supabase;Solving+Hard+Native+Layer+Challenges%22 alt="Typing SVG" />
-</a>
- 
+
+  # 📱 Nitin Guttedar
+  ### **Software Engineer — React Native & Cross-Platform Mobile Architect**
+
   <p align="center">
-<strong>Software Engineer</strong> with 4+ years of experience architecting, building, and scaling cross-platform mobile applications with <strong>React Native</strong> for iOS & Android.
-</p>
- 
-  <!-- Quick Badges / Metrics -->
-<p align="center">
-<a href="#-connect-with-me"><img src="https://img.shields.io/badge/Status-Open_to_Collaborations-22C55E?style=flat-square&logo=gitbook&logoColor=white%22 alt="Status" /></a>
-<img src="https://img.shields.io/badge/Experience-4%2B_Years-0284C7?style=flat-square&logo=speedtest&logoColor=white%22 alt="Experience" />
-<img src="https://img.shields.io/badge/Location-Mysuru%2C_India-EA580C?style=flat-square&logo=googlemaps&logoColor=white%22 alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=shashikant-panchal&color=38bdf8&style=flat-square&label=Profile+Views%22 alt="Profile Views" />
-</p>
- 
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=650&lines=React+Native+%26+Cross-Platform+Mobile+Engineer;Architecting+High-Performance+iOS+%26+Android+Apps;Fabric%2C+TurboModules+%26+New+Architecture+Expert;3.6%2B+Years+of+Production+Mobile+Engineering;Near-Zero+Critical-Bug+Track+Record" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+    📍 Kalaburagi / Mysuru, Karnataka, India &nbsp;|&nbsp;
+    💼 Software Engineer @ <b>Excelsoft Technologies</b> &nbsp;|&nbsp;
+    🚀 <b>3.6+ Years Exp</b>
+  </p>
+
+  <!-- Connect Badges -->
+  <p align="center">
+    <a href="mailto:nitinguttedar2000@gmail.com">
+      <img src="https://img.shields.io/badge/Email-nitinguttedar2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/nitin-guttedar">
+      <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Guttedar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/nitin-guttedar">
+      <img src="https://img.shields.io/badge/GitHub-nitin--guttedar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="tel:+919113533015">
+      <img src="https://img.shields.io/badge/Phone-%2B91%2091135%2033015-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+  </p>
+
+  <!-- Metrics Highlight Strip -->
+  <table align="center">
+    <tr>
+      <td align="center"><b>💼 Experience</b><br><code>3.6+ Years</code></td>
+      <td align="center"><b>📱 Production Apps</b><br><code>3+ Enterprise & EdTech</code></td>
+      <td align="center"><b>👥 Users Impacted</b><br><code>Tens of Thousands</code></td>
+      <td align="center"><b>🎯 Production Quality</b><br><code>Near-Zero Critical Bugs</code></td>
+      <td align="center"><b>⚙️ Architecture</b><br><code>New Arch / Fabric / 16KB</code></td>
+    </tr>
+  </table>
+
 </div>
- 
+
 ---
- 
-## 📝 About Me
- 
-I am a **Software Engineer** specializing in **building cross-platform mobile apps with React Native**. With **4+ years of experience** architecting, engineering, and launching production-ready mobile applications (**React Native**, **TypeScript**, **Expo**) across iOS and Android, I have delivered **5+ production apps** from zero to the Apple App Store and Google Play Store.
- 
-- 📱 **Building Apps with React Native:** Dedicated focus on architecting, building, and scaling cross-platform mobile apps with **React Native** and **Expo**, creating fluid 60 FPS user interfaces, offline-first sync, and scalable component architectures.
 
-- 💼 **Current Role:** Software Engineer at **Excelsoft Technologies**, architecting enterprise LXP solutions, deep-link SSO authentication, and automated CI/CD release pipelines.
+### 👨‍💻 About Me
 
-- ⚙️ **Native & Build Tooling:** Deep expertise in React Native's **New Architecture (Fabric & TurboModules)**, native Android 15 (16KB ELF page-size alignment), Gradle/CMake build automation, and Xcode/CocoaPods native linking.
+Results-driven **Software Engineer** with **3.6+ years** of hands-on experience architecting, building, and deploying mission-critical cross-platform mobile applications using **React Native**, **TypeScript**, and **Redux Toolkit** across **iOS and Android**.
 
-- 🔐 **Enterprise Security & Cloud:** Enterprise SSO (OAuth 2.0/SAML), payload encryption (double-ended AES, Keychain, EncryptedSharedPreferences), and serverless architectures with **AWS** (Amplify v6, Cognito, Lambda, S3), **Supabase**, and **Firebase**.
+- 🔭 **Current Role:** Software Engineer at **Excelsoft Technologies Pvt Ltd**, driving cross-platform mobile engineering, native platform modernization, and deployment automation.
+- 📱 **Store Deployment Owner:** Full ownership of App Store (Apple) & Google Play Store release pipelines, code signing, automated CI/CD builds, and compliance.
+- ⚡ **Deep Native & Systems Focus:** Migrated production apps to React Native’s **New Architecture (Fabric, TurboModules, Codegen)**, eliminated bridge bottlenecks, and engineered **custom native modules (Kotlin/Java, Swift/Objective-C)**.
+- 🛡️ **Play Store Compliance Pioneer:** Proactively addressed and resolved **16KB memory page size** ELF alignment across native C++ libraries ahead of Google Play enforcement deadlines.
+- 🤝 **Leadership & Craft:** Regular code reviewer, technical mentor, and Agile team collaborator with a track record of zero post-launch critical bug releases.
 
-- ⚡ **Real-Time & Systems:** Production experience building **LiveKit WebRTC** video/audio calling with Picture-in-Picture (PiP), real-time WebSocket sync, **ESC/POS Thermal Printing engines** (~1,350 LOC driver), and NFC scanning.
-
-- 🎯 **Engineering Philosophy:** Building high-reliability, user-centric mobile applications that deliver silky-smooth **60 FPS** user experiences.
- 
 ---
- 
-## 🛠️ Tech Stack
- 
-### 💻 Languages & Core
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
- 
-### 📱 Mobile Ecosystem & Architecture
-<p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/New_Architecture-Fabric_%26_TurboModules-61DAFB?style=for-the-badge&logo=react&logoColor=white%22 alt="Fabric & TurboModules" />
-<img src="https://img.shields.io/badge/React_Navigation-6B52AE?style=for-the-badge&logo=react&logoColor=white" alt="React Navigation" />
-<img src="https://img.shields.io/badge/Reanimated-FF4154?style=for-the-badge&logo=framer&logoColor=white" alt="Reanimated" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-</p>
- 
-### ⚛️ Frontend, State & API Layer
-<p>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-<img src="https://img.shields.io/badge/Redux_Persist-4B32C3?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Persist" />
-<img src="https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API" />
-<img src="https://img.shields.io/badge/GraphQL_Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white%22 alt="Apollo GraphQL" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-</p>
- 
-### ☁️ Backend, Cloud & Database
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="AWS Amplify" />
-<img src="https://img.shields.io/badge/AWS_Cognito-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900%22 alt="AWS Cognito" />
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
- 
-### 📡 Real-Time, Payments & Hardware
-<p>
-<img src="https://img.shields.io/badge/WebRTC_LiveKit-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="LiveKit WebRTC" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
-<img src="https://img.shields.io/badge/Thermal_Printing-ESC%2FPOS-1E293B?style=for-the-badge&logo=print&logoColor=white%22 alt="ESC/POS Printing" />
-<img src="https://img.shields.io/badge/NFC_Integration-0055FF?style=for-the-badge&logo=nfc&logoColor=white" alt="NFC" />
-<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white%22 alt="Google Maps" />
-<img src="https://img.shields.io/badge/AES_Encryption-0F172A?style=for-the-badge&logo=letsencrypt&logoColor=white%22 alt="AES Encryption" />
-</p>
- 
-### 🛠️ DevOps, CI/CD & Native Tooling
-<p>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white%22 alt="Android Studio" />
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-<img src="https://img.shields.io/badge/Gradle_%26_CMake-02303A?style=for-the-badge&logo=gradle&logoColor=white%22 alt="Gradle & CMake" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white%22 alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white" alt="Bitrise" />
-<img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white%22 alt="App Store Connect" />
-<img src="https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white%22 alt="Play Console" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</p>
- 
+
+### 🛠️ Tech Stack & Skills Matrix
+
+<table>
+  <tr>
+    <td width="22%"><b>📱 Mobile Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/React_Native_CLI-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/New_Architecture_(Fabric_&_TurboModules)-007ACC?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Navigation-6B52AE?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Deep_Linking-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Custom_Native_Modules-107C41?style=flat-square&logo=android&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>⚛️ Frontend & State</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux_Persist-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>☁️ Backend, APIs & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_CloudFront-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Razorpay_Payment_Gateway-0C2340?style=flat-square&logo=razorpay&logoColor=528FF0" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>🚀 DevOps & Release</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=google-play&logoColor=white" />
+      <img src="https://img.shields.io/badge/App_Store_Connect-000000?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%"><b>🛠️ Tooling & Profiling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+      <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flipper-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Performance_Profiling-FF6F00?style=flat-square&logo=speedtest&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 ---
- 
-## 🤝 Connect with Me
- 
+
+### 💼 Professional Experience
+
+```
+Excelsoft Technologies Pvt Ltd | Software Engineer
+Mysuru, Karnataka, India | Feb 2023 – Present
+```
+
+- **Cross-Platform Mobile Leadership:** Spearhead end-to-end engineering of production mobile applications using **React Native** and **TypeScript**, shipping feature-rich releases for both iOS and Android from unified codebases.
+- **Store Deployment & Compliance Ownership:** Lead complete lifecycle on **App Store Connect** and **Google Play Console**, handling code signing, automated certificate provisioning, privacy manifests, and store compliance.
+- **New Architecture Modernization:** Spearheaded legacy application migration to React Native’s **New Architecture (Fabric renderer, TurboModules, Codegen)**, eliminating bridge serialization overhead and delivering near-instant native interop.
+- **16KB Memory Page Size Alignment:** Prepared native Android build configurations and C++ shared libraries for Google Play's mandatory 16KB memory page size standard ahead of timeline.
+- **Custom Native Module Engineering:** Built bespoke native modules in **Kotlin/Java** and **Swift/Objective-C** to replace heavy third-party npm packages, trimming bundle size and boosting performance.
+- **Performance Profiling & Optimization:** Diagnosed JS thread bottlenecks with Flipper and Systrace, reducing Time-to-Interactive (TTI) and stabilizing 60 FPS animations on budget Android devices.
+- **CI/CD & Release Automation:** Engineered automated CI/CD pipelines for automated unit testing, build artifact generation, and deployment pipelines.
+- **Mentorship & Quality Standards:** Spearhead sprint code reviews, driving clean component architecture, strict TypeScript usage, and Redux state best practices.
+
+---
+
+### 🚀 Featured Production Apps
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎓 JSSAHER OEP</h3>
+      <i>Enterprise E-Learning Platform</i>
+      <br><br>
+      <img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square&logo=google-play&logoColor=white" />
+      <img src="https://img.shields.io/badge/App_Store-Live-000000?style=flat-square&logo=apple&logoColor=white" />
+      <br><br>
+      <b>Impact & Contributions:</b>
+      <ul>
+        <li>Architected scalable app serving thousands of medical & healthcare students.</li>
+        <li>Dynamic course curriculum rendering, progress tracking & React Navigation deep links.</li>
+        <li>Optimized image caching & lazy loading for faster content retrieval.</li>
+        <li><b>0 critical bugs</b> reported post-launch across iOS & Android.</li>
+      </ul>
+      <b>Stack:</b><br>
+      <code>React Native</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>React Navigation</code> <code>Axios</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📚 Saksham Pro (ICICI)</h3>
+      <i>Enterprise Learner Platform</i>
+      <br><br>
+      <img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square&logo=google-play&logoColor=white" />
+      <img src="https://img.shields.io/badge/App_Store-Live-000000?style=flat-square&logo=apple&logoColor=white" />
+      <br><br>
+      <b>Impact & Contributions:</b>
+      <ul>
+        <li>Engineered course management UI & multi-step navigation for enterprise corporate groups.</li>
+        <li>Refactored REST API data-fetching pipelines, reducing initial load latency significantly.</li>
+        <li>Enforced strict client-side data privacy & platform compliance policies.</li>
+        <li>Constructed reusable design system modules minimizing code redundancy.</li>
+      </ul>
+      <b>Stack:</b><br>
+      <code>React Native</code> <code>Redux Toolkit</code> <code>RESTful APIs</code> <code>Axios</code> <code>React Navigation</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚑 JeevaRaksha</h3>
+      <i>Emergency Care & Medical LMS</i>
+      <br><br>
+      <img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=flat-square&logo=google-play&logoColor=white" />
+      <img src="https://img.shields.io/badge/App_Store-Live-000000?style=flat-square&logo=apple&logoColor=white" />
+      <br><br>
+      <b>Impact & Contributions:</b>
+      <ul>
+        <li>Dual-role persona system (Student vs Instructor) with dynamic AWS Cognito/Amplify backends.</li>
+        <li>Multi-format LMS video player (CloudFront MP4, YouTube, Vimeo, PDF manuals).</li>
+        <li>Live resuscitation checklist module (BCLS/ACLS) for real-time instructor exam scoring.</li>
+        <li>Integrated Razorpay gateway, dynamic PDF reports & offline Redux Persist storage.</li>
+      </ul>
+      <b>Stack:</b><br>
+      <code>React Native</code> <code>TypeScript</code> <code>AWS Amplify</code> <code>Cognito</code> <code>CloudFront</code> <code>Razorpay</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Architectural & Engineering Specializations
+
+```mermaid
+graph TD
+    A[Mobile Client Experience] --> B[React Native UI Layer]
+    B --> C{State Management}
+    C -->|Global Sync| D[Redux Toolkit & Persist]
+    C -->|UI Flows| E[React Navigation & Deep Linking]
+    
+    B --> F[Native Interop]
+    F -->|New Architecture| G[TurboModules & Fabric Codegen]
+    F -->|Custom Bridge Modules| H[Kotlin / Swift Native Code]
+    
+    B --> I[Network & Cloud Services]
+    I --> J[Axios RESTful APIs]
+    I --> K[AWS Amplify & Cognito Auth]
+    I --> L[CloudFront CDN & Razorpay Gateway]
+    
+    F --> M[OS Compliance]
+    M --> N[16KB Page Size Alignment - Gradle / NDK]
+    M --> O[iOS Privacy Manifests & Codesigning]
+```
+
+- **⚡ React Native New Architecture:** Fabric rendering pipeline, TurboModules, and JSI/Codegen implementation, eliminating bridge serialization bottlenecks.
+- **🛡️ 16KB Page Size Android Compliance:** Hands-on experience rebuilding, aligning, and packaging native ELF libraries to support Android's 16KB page size requirement.
+- **📶 Offline-First & Resilient Persistence:** Deep experience with Redux Persist, Secure Keychain/Encrypted Shared Preferences, and shimmer state loaders for degraded network environments.
+- **🔐 Enterprise Security & Auth:** Role-based access control, AWS Cognito / Amplify auth state switching, payment gateway integration, and biometric/token protection.
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin-guttedar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nitin's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-guttedar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-guttedar&theme=tokyonight&hide_border=true&background=0D1117" alt="Nitin's GitHub Streak" />
+</div>
+
+---
+
+### 🎓 Education & 🌐 Languages
+
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h4>🎓 Academic Background</h4>
+      <ul>
+        <li>
+          <b>Bachelor of Engineering (B.E.)</b> <br>
+          <i>P.D.A. College of Engineering, Kalaburagi, Karnataka</i> <br>
+          <code>Graduated: Jul 2022</code>
+        </li>
+        <li>
+          <b>Pre-University Certificate (PUC) - Science</b> <br>
+          <i>Sarvajna PU College of Science, Kalaburagi, Karnataka</i> <br>
+          <code>Completed: Mar 2018</code>
+        </li>
+        <li>
+          <b>Secondary School Leaving Certificate (SSLC)</b> <br>
+          <i>Shahbaaz English Medium School, Kalaburagi, Karnataka</i> <br>
+          <code>Completed: Apr 2016</code>
+        </li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h4>🌐 Languages</h4>
+      <ul>
+        <li><b>English</b> — <i>Full Professional Proficiency</i></li>
+        <li><b>Hindi</b> — <i>Full Professional Proficiency</i></li>
+        <li><b>Kannada</b> — <i>Full Professional Proficiency</i></li>
+      </ul>
+      <br>
+      <h4>🎯 Methodologies & Core Strengths</h4>
+      <ul>
+        <li>Agile / Scrum Sprints & JIRA</li>
+        <li>Technical Mentoring & Code Reviews</li>
+        <li>Pixel-Perfect Figma to Code Implementation</li>
+        <li>Cross-Functional Collaboration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📬 Get In Touch
+
+Whether you want to collaborate on an innovative mobile project, discuss React Native architecture, or explore high-impact engineering opportunities:
+
 <p align="center">
-<a href="https://www.linkedin.com/in/shashikant-panchal" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:shashikantpanchal499@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/shashikant-panchal" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://wa.me/919353286353" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+  <a href="mailto:nitinguttedar2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nitinguttedar2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/nitin-guttedar">
+    <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Guttedar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nitin-guttedar">
+    <img src="https://img.shields.io/badge/GitHub-nitin--guttedar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="tel:+919113533015">
+    <img src="https://img.shields.io/badge/Phone-%2B91%2091135%2033015-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call / WhatsApp" />
+  </a>
 </p>
+
+<div align="center">
+  <sub>Designed & engineered with ❤️ by <a href="https://github.com/nitin-guttedar">Nitin Guttedar</a></sub>
+</div>
